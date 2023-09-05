@@ -1,0 +1,9 @@
+node_modules/
+artifacts/
+cache/
+tmp/
+coverage.out*
+.env*
+/api/main
+*.tmp
+*.bak

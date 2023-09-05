@@ -1,0 +1,9 @@
+CREATE TABLE IF NOT EXISTS receipts (
+    id UUID PRIMARY KEY,
+    nric VARCHAR(9) NOT NULL UNIQUE,
+    wallet_address TEXT NOT NULL UNIQUE,
+    receipt TEXT,
+    request_body TEXT,
+    created_at TIMESTAMP WITH TIME ZONE NOT NULL DEFAULT NOW(),
+    updated_at TIMESTAMP WITH TIME ZONE NOT NULL DEFAULT NOW()
+)

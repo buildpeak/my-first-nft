@@ -1,0 +1,15 @@
+{
+  "attributes": [
+    {
+      "trait_type": "Category",
+      "value": "Comics"
+    },
+    {
+      "trait_type": "Comics Name",
+      "value": "Slam Dunk"
+    }
+  ],
+  "description": "Sakurai is a character from the manga series Slam Dunk. He is the captain of the Shohoku basketball team and the main protagonist of the series. He is the main reason why the Shohoku basketball team became stronger.",
+  "image": "ipfs://QmbbFs1qaZrEuPm4hXZ42gqEc36Tf1x7GqME9MaVFjwk7b",
+  "name": "Sakurai"
+}
